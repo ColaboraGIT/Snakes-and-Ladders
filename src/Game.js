@@ -57,7 +57,7 @@ ChangeDiceValue = () =>{
 playerWon() {
   if (this.state.player1Pos === 100){
     swal({
-      title: 'YOU WON!',
+      title: '¡HAS GANADO!',
       imageUrl: require("./images/winning-cat1.png"),
       imageWidth: 400,
       imageHeight: 200,
@@ -66,7 +66,7 @@ playerWon() {
   })
   } else if (this.state.player2Pos === 100){
     swal({
-      title: 'YOU WON!',
+      title: '¡HAS GANADO!',
       imageUrl: require("./images/winning-cat2.jpg"),
       imageWidth: 200,
       imageHeight: 200,
