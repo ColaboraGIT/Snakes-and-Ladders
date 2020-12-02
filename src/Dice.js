@@ -4,7 +4,7 @@ import "./css/buttons.css"
 const Dice = ( props ) =>{
   return(
     <div>
-      <button  className="button roll-dice" type="button" onClick={props.diceValue} >Lanza el dado</button>
+      <button  className="button roll-dice" type="button" onClick={props.diceValue} >Tirar el dado</button>
     </div>
   )
 }
