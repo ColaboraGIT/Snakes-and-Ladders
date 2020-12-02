@@ -82,7 +82,7 @@ playerWon() {
   if (this.state.player1Pos === 100){
     swal({
       title: '¡HAS GANADO!',
-      imageUrl: require("./images/winning-cat1.png"),
+      imageUrl: require("./images/winning-cat2.jpg"),
       imageWidth: 400,
       imageHeight: 200,
       imageAlt: 'Custom image',
