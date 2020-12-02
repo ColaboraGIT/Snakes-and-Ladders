@@ -9,13 +9,13 @@
 }
 
 h1 {
-  font-family: 'Chicle', cursive;
+  font-family: 'Courier New', Courier, monospace;
   color:  #d64161;
   font-size: 80px
 }
 
 p {
-  font-family: 'Chicle', cursive;
+  font-family: 'Courier New', Courier, monospace;
   color: #4040a1;
   font-size: 60px
 }
