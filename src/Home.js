@@ -7,11 +7,11 @@ class Home extends React.Component{
       <div className="text">
         <h1 className="title">Welcome to Snakes and Ladders</h1>
 
-        <p>This is a school project by Tania and Vic at the Flatiron School.</p>
-        <p>Snakes and Ladders is an interactive version of the worldwide classic. It is a two player board game to play with your friends and family.</p>
-        <p>Click on "Game" to see the board and start a new game, or click on "Instructions" to see how to play.</p>
-        <p>After you finish the game if you want to play again just click on the button that says "New Game", and you can start over again.</p>
-        <p>Good luck and have fun!</p>
+        <p>Este es un proyecto de clase de Tania y Vic, de la escuela Flatiron.</p>
+        <p>Serpientes y escaleras es una versión interactiva del juego clásico mundialmente conocido. Es un juego de tablero para dos jugadores para jugar con tus amigos y familiares.</p>
+        <p>Haz clic en "Juego" para ver el tablero y empezar un juego nuevo, o haz clic en "Instrucciones" para aprender cómo se juega.</p>
+        <p>Después de terminar una partida, si quieres jugar de nuevo, haz clic en el botón que dice "Juego Nuevo", y puedes empezar de nuevo.</p>
+        <p>¡Buena suerte y que te diviertas!</p>
       </div>
     )
   }
