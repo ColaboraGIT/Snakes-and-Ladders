@@ -7,9 +7,9 @@ class NavBar extends Component {
     return (
       <div className="Nav">
         <ul>
-          <li><NavLink to="/" activeClassName="active">Home</NavLink>  </li>
-          <li><NavLink to="/game" activeClassName="active">Game</NavLink>  </li>
-          <li><NavLink to="/instructions" activeClassName="active">Instructions</NavLink>  </li>
+          <li><NavLink to="/" activeClassName="active">Inicio</NavLink>  </li>
+          <li><NavLink to="/game" activeClassName="active">Juego</NavLink>  </li>
+          <li><NavLink to="/instructions" activeClassName="active">Instrucciones</NavLink>  </li>
         </ul>
       </div>
     )
