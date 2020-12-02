@@ -5,11 +5,11 @@ class Instructions extends React.Component{
   render(){
     return(
       <div className="text">
-        <h1 className="title">How to play:</h1>
-        <p>1. Decide who is going to be the first player.</p>
-        <p>2. Click on the button that says "Roll the Dice". The white dice will tell you how many spaces your token is going to move.</p>
-        <p>3. If you hit a snake's head you will go down, but if you hit a ladder you will go up.</p>
-        <p>4. The first player that gets to 100 will win the game.</p>
+        <h1 className="title">Cómo jugar:</h1>
+        <p>1. Decide quién va a ser el primer jugador.</p>
+        <p>2. Click en el botón que pone "Roll the Dice". El dado blanco te dice cuantos espacios se va a mover tu ficha.</p>
+        <p>3. Si caes en una cabeza de serpiente irás hacia abajo, pero si caes en una escalera subirás.</p>
+        <p>4. El primer jugador que llege a 100 ganará el juego</p>
       </div>
     )
   }
