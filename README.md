@@ -1,6 +1,8 @@
 # Snakes and Ladders
 
-# hola 
+
+# hola 111
+
 **CPR ColaboraGIT proyecto final. Snakes and Ladders es la versión interactiva del clásico juego de mesa.**
 
 ![alt text](https://github.com/ColaboraGIT/Snakes-and-Ladders/blob/master/screenshoot.jpg)
@@ -38,6 +40,19 @@
  * [Vic Patel](https://github.com/vp932712)
  * [Joaquin Ríos](https://github.com/joaquinalbares)
  * [Alberto Sierra](https://github.com/albsierra)
+ * [Celso Jiménez](https://github.com/celsojimenez)
+ * [Pablo Fernandez](https://github.com/PabloFernandez4)
  * [Docmurcia](https://github.com/docmurcia)
  * [Esteban Giménez](http://github.com/deymian)
+
  * [Carlos Prendes](http://github.com/carlosPrendes)
+ * [Guillermo Palazón Cano](https://github.com/guillermopalazon)
+ * [Belén Meroño] (https://github.com/belenme)
+ * [Pablo Fernandez](https://github.com/PabloFernandez4)
+ * [Docmurcia](https://github.com/docmurcia)
+ * [Esteban Giménez](http://github.com/deymian)
+ * [Gonzalo Fernández Hernández] (https://github.com/GonxFH)
+
+ Creado en el curso ColaboraGIT
+
+
