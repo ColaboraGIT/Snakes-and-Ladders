@@ -38,4 +38,4 @@
  * [Vic Patel](https://github.com/vp932712)
  * [Joaquin Ríos](https://github.com/joaquinalbares)
  * [Alberto Sierra](https://github.com/albsierra)
- * [Jose Juan](https://github.com/josejuan1981)
+ * [Esteban Giménez](http://github.com/deymian)
