@@ -38,6 +38,7 @@
  * [Vic Patel](https://github.com/vp932712)
  * [Joaquin Ríos](https://github.com/joaquinalbares)
  * [Alberto Sierra](https://github.com/albsierra)
+ * [Belén Meroño] (https://github.com/belenme)
  * [Pablo Fernandez](https://github.com/PabloFernandez4)
  * [Docmurcia](https://github.com/docmurcia)
  * [Esteban Giménez](http://github.com/deymian)
