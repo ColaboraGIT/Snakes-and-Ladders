@@ -41,3 +41,4 @@
  * [Pablo Fernandez](https://github.com/PabloFernandez4)
  * [Docmurcia](https://github.com/docmurcia)
  * [Esteban Giménez](http://github.com/deymian)
+ * [Gonzalo Fernández Hernández] (https://github.com/GonxFH)
