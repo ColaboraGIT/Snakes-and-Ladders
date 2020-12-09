@@ -30,26 +30,50 @@ ChangeDiceValue = () =>{
      let val = this.state.player1Pos + rand;
      if(val >100){
 
-     }else{pos = this.state.positionObj[val]
-     this.setState({
-       diceValue: rand,
-       currentPlayer: "player2",
-       player1Pos: pos
-     },()=>{
-       this.playerWon()
-     })}
+     }else{
+     pos = this.state.positionObj[val]
+     if (rand === 6){ 
+        this.setState({
+        diceValue: rand,
+        currentPlayer: "player1",
+        player1Pos: pos
+        },()=>{
+        this.playerWon()
+        })
+     } else {   
+        this.setState({
+        diceValue: rand,
+        currentPlayer: "player2",
+        player1Pos: pos
+        },()=>{
+        this.playerWon()
+        })
+     }
+     }
 
    }else if (this.state.currentPlayer === "player2") {
      let val = this.state.player2Pos + rand;
      if(val > 100){
-     }else{pos = this.state.positionObj[val]
-     this.setState({
-       diceValue: rand,
-       currentPlayer: "player1",
-       player2Pos: pos
-     },()=>{
-       this.playerWon()
-     })}
+     }else{
+        pos = this.state.positionObj[val]
+        if (rand === 6){ 
+            this.setState({
+            diceValue: rand,
+            currentPlayer: "player2",
+            player2Pos: pos
+            },()=>{
+            this.playerWon()
+            })
+        } else {
+            this.setState({
+            diceValue: rand,
+            currentPlayer: "player1",
+            player2Pos: pos
+            },()=>{
+            this.playerWon()
+            })
+        }    
+    }
 
    }
 
@@ -57,8 +81,8 @@ ChangeDiceValue = () =>{
 playerWon() {
   if (this.state.player1Pos === 100){
     swal({
-      title: 'YOU WON!',
-      imageUrl: require("./images/winning-cat1.png"),
+      title: '¡HAS GANADO!',
+      imageUrl: require("./images/winning-cat2.jpg"),
       imageWidth: 400,
       imageHeight: 200,
       imageAlt: 'Custom image',
@@ -66,7 +90,7 @@ playerWon() {
   })
   } else if (this.state.player2Pos === 100){
     swal({
-      title: 'YOU WON!',
+      title: '¡HAS GANADO!',
       imageUrl: require("./images/winning-cat2.jpg"),
       imageWidth: 200,
       imageHeight: 200,
