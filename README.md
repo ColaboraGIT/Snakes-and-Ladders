@@ -1,5 +1,6 @@
 # Snakes and Ladders
 
+# hola
 **CPR ColaboraGIT proyecto final. Snakes and Ladders es la versión interactiva del clásico juego de mesa.**
 
 ![alt text](https://github.com/ColaboraGIT/Snakes-and-Ladders/blob/master/screenshoot.jpg)
@@ -32,9 +33,11 @@
  * El jugador que primero alcance la casilla numerada como 100, ganará el juego.
  
  ## Colaboradores
- 
+ * [Javier Gimenez](https://github.com/javileyes)
  * [Tania Aparicio](https://github.com/tanelam)
  * [Vic Patel](https://github.com/vp932712)
+ * [Joaquin Ríos](https://github.com/joaquinalbares)
  * [Alberto Sierra](https://github.com/albsierra)
-
  * [Pablo Fernandez](https://github.com/PabloFernandez4)
+ * [Docmurcia](https://github.com/docmurcia)
+ * [Esteban Giménez](http://github.com/deymian)
