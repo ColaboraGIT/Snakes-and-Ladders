@@ -9,7 +9,7 @@
 
 ## Desarrollado con
 
-* React 
+* React
 * JavaScript
 * CSS
 
@@ -17,21 +17,21 @@
  1. Clona este repositorio https://github.com/ColaboraGIT/Snakes-and-Ladders
  2. Instala las dependencias `npm install` o `yarn install`
  3. Inicia el servidor `npm start` o `yarn start`
- 
+
  ## En el navegador
- 
+
  Si no se abre automáticamente, navega hasta la dirección del servidor  http://localhost:3000 (o la que corresponda)
- 
+
  ## Instrucciones del juego:
- 
+
  ![Alt Text](https://media.giphy.com/media/dJHECxtJ3bObW0kx2y/giphy.gif)
- 
+
  * Haz click en "Jugar" y serás redirigido al tablero del juego para iniciar una partida.
  * Decide quién será el primero en lanzar el dado.
  * Alternativamente, los jugadores harán click en el botón  "Gira el dado".
  * Si el jugador alcanza una cabeza de serpiente, deberá descender hasta el final de la cola. Por el contrario, si alcanza el inicio de una escalera, subirá por ella hasta el extremo superior.
  * El jugador que primero alcance la casilla numerada como 100, ganará el juego.
- 
+
  ## Colaboradores
  * [Javier Gimenez](https://github.com/javileyes)
  * [Tania Aparicio](https://github.com/tanelam)
@@ -50,4 +50,6 @@
  * [Gonzalo Fernández Hernández] (https://github.com/GonxFH)
 
  * Mensaje generado por Esteban para comprobar conflictos en la rama master
+Creado por Joaquinalbares
+
  Creado en el curso ColaboraGIT
