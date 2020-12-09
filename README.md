@@ -48,3 +48,5 @@
  * [Docmurcia](https://github.com/docmurcia)
  * [Esteban Giménez](http://github.com/deymian)
  * [Gonzalo Fernández Hernández] (https://github.com/GonxFH)
+
+ * Mensaje generado por Esteban para comprobar conflictos en la rama master
