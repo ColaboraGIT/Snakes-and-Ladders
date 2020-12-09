@@ -50,6 +50,7 @@
  * [Gonzalo Fernández Hernández] (https://github.com/GonxFH)
 
  * Mensaje generado por Esteban para comprobar conflictos en la rama master
-Creado por Joaquinalbares
 
- Creado en el curso ColaboraGIT
+Me han borrado de colaboradores
+Creado por Joaquinalbares
+Creado en el curso ColaboraGIT
