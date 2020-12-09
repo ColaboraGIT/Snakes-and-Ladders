@@ -40,4 +40,5 @@
  * [Alberto Sierra](https://github.com/albsierra)
  * [Docmurcia](https://github.com/docmurcia)
  * [Esteban Giménez](http://github.com/deymian)
+ * [Carlos Prendes] (http://github.com/carlosPrendes)
 
