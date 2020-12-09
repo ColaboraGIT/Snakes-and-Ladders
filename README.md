@@ -32,7 +32,7 @@
  * El jugador que primero alcance la casilla numerada como 100, ganará el juego.
  
  ## Colaboradores
- 
+ * [Javier Gimenez](https://github.com/javileyes)
  * [Tania Aparicio](https://github.com/tanelam)
  * [Vic Patel](https://github.com/vp932712)
  * [Alberto Sierra](https://github.com/albsierra)
