@@ -36,4 +36,6 @@
  
  * [Tania Aparicio](https://github.com/tanelam)
  * [Vic Patel](https://github.com/vp932712)
+ * [Joaquin Ríos](https://github.com/joaquinalbares)
  * [Alberto Sierra](https://github.com/albsierra)
+ ***************************************************
